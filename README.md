@@ -1,10 +1,10 @@
 # Lambertian-PhotometricStereo
 
-Input image
+Input image  
 ![image](https://github.com/elerac/Lambertian-PhotometricStereo/blob/manuscript/target.jpg)
 
-Norml
+Norml  
 ![image](https://github.com/elerac/Lambertian-PhotometricStereo/blob/manuscript/normal.png)
 
-Albedo
+Albedo  
 ![image](https://github.com/elerac/Lambertian-PhotometricStereo/blob/manuscript/albedo.png)
