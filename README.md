@@ -1,6 +1,6 @@
 # Lambertian-PhotometricStereo
 
-Input image
+Input image  
 
 
 |1|2|
